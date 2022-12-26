@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.suggestion-item-container {
+  background-color: white;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.suggestion-text {
+  font-size: 15px;
+  color: black;
+}
+
+.arrow-img {
+  width: 50px;
+  color: black;
+}
